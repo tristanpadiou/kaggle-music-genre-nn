@@ -24,9 +24,9 @@ Feature list:
 - valence
 - music_genre
 - 
-[The Music Genre Prediction Neural Network Model](#nn-model)
+[The Music Genre Prediction Neural Network Model](#the-music-genre-prediction-neural-network-model)
 
-## The Music Genre Prediction Neural Network Model: {#nn-model}
+## The Music Genre Prediction Neural Network Model:
 
 file:
 ```
