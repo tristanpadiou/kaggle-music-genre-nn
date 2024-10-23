@@ -23,9 +23,10 @@ Feature list:
 - tempo	
 - valence
 - music_genre
+- 
+[The Music Genre Prediction Neural Network Model](#nn-model)
 
-
-## The Music Genre Prediction Neural Network Model:
+## The Music Genre Prediction Neural Network Model: {#nn-model}
 
 file:
 ```
